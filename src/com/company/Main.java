@@ -1,10 +1,10 @@
 package com.company;
-
+//testing
 public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        int[] arrayList = {5, 2, 4, 6, 7};
+        int[] arrayList = {4, 2, 5, 6, 8};
         insertionSort(arrayList);
         printArray(arrayList);
 
